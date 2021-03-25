@@ -24,7 +24,7 @@
             width: 50%;
           }
       </style>
-      <body style="background-size: cover; background-image: url('20180501150434_IMG_5059.jpg');" >
+      <body style="background-size: cover; background-image: url('uts jpg,jpeg');" >
       
       
       <div style="text-align:center;">
